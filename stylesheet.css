@@ -57,6 +57,7 @@ a:hover{
 }*/
 
 div{
+	border-radius: 10px;
 	background-color: #a4c1c1;
 	text-align: center;
 }
