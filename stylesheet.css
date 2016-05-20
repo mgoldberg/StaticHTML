@@ -1,6 +1,6 @@
 
 *{
-	background-color: black;
+	//background-color: black;
 }
 
 
@@ -129,6 +129,7 @@ p{
 	font-family: "Lucida Console", Monaco, monospace;
 }
 
+
 ol{
 	background-color: #a4c1c1;
 	font-size: 1em;
@@ -191,6 +192,7 @@ p header-mini{
 }*/
 
 footer{
+	background-color:black;
 	text-align: center;
-	color: gray;
+	color: yellow;
 }
