@@ -1,0 +1,169 @@
+
+*{
+	background-color: black;
+}
+
+
+header{
+	font-size: 2.3em;
+	color: yellow;
+	text-align: center;
+	font-family: Impact, Charcoal, sans-serif;
+	//background-color: gray;
+}
+
+#header2{
+	font-size: 1.8em;
+	color: red;
+	text-align: center;
+	font-family: "Arial Black", Gadget, sans-serif;
+}
+
+body{
+	//background-color: gray;
+}
+
+a:link{
+	color: yellow;
+	//background-color: gray;
+}
+
+a:visited{
+	color: yellow;
+	//background-color: gray;
+}
+
+a:hover{
+	color: pink;
+	//background-color: gray;
+}
+
+#links{
+	background-color: black;
+}
+
+/*body:nth-child(2){
+	//background-color: gray;
+	text-align: center;
+	color: blue;
+	font-size: 2em;
+}*/
+
+
+
+/*p1{
+	color: blue;
+	background-color: gray;
+}*/
+
+div{
+	background-color: #a4c1c1;
+	text-align: center;
+}
+
+p{
+	background-color: #a4c1c1;
+	text-align: left;
+	color: #cc6600;
+	font-family: "Lucida Console", Monaco, monospace;
+}
+
+#title1{
+	color: #6666ff;
+	background-color: #a4c1c1;
+	font-size: 1.5em;
+	font-weight: bold;
+}
+
+#title2{
+	color: #cc0000;
+	background-color: #a4c1c1;
+	font-size: 1.5em;
+	font-weight: bold;
+}
+
+#title3{
+	color: #cc6600;
+	background-color: #a4c1c1;
+	font-size: 1.5em;
+	font-weight: bold;
+}
+
+#content1{
+	color: #6666ff;
+	text-align: left;
+	font-family: "Lucida Console", Monaco, monospace;
+}
+
+#content2{
+	color: #cc0000;
+	text-align: left;
+	font-family: "Lucida Console", Monaco, monospace;
+}
+
+
+ol{
+	background-color: #a4c1c1;
+	font-size: 1em;
+}
+
+li{
+	background-color: #a4c1c1;
+	font-size: 1em;
+}
+
+/*p2 ol{
+	color: red;
+	background-color: gray;
+}
+
+p2 li{
+	color: red;
+	background-color: gray;
+}*/
+
+/*positive-header{
+	color: blue;
+	background-color: gray;
+	text-align: center;
+	}*/
+
+/*p2{
+	color: red;
+	background-color: gray;
+}*/
+
+/*negative-header{
+	color: red;
+	background-color: gray;
+	text-align: center;
+	font-size: 1.5em;
+}*/
+
+/*body:first-child{
+	color: blue;
+	//background-color: gray;
+}
+
+body:nth-child(2){
+	color: red;
+	//background-color: gray;
+}
+
+
+p header-mini{
+	color: blue;
+	background-color: gray;
+	text-align: center;
+}
+
+p header-mini{
+	color: red;
+	background-color: gray;
+	text-align: center;
+}*/
+
+footer{
+	text-align: center;
+	color: gray;
+}
