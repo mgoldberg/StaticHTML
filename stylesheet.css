@@ -17,6 +17,7 @@ header{
 	font-size: 1.8em;
 	color: red;
 	text-align: center;
+	font-weight: bold;
 	font-family: "Arial Black", Gadget, sans-serif;
 	display:block;
 }
@@ -95,6 +96,14 @@ p{
 }
 
 #title3{
+	color: #cc6600;
+	background-color: #a4c1c1;
+	font-size: 1.5em;
+	font-weight: bold;
+	text-decoration: underline;
+}
+
+#title4{
 	color: #cc6600;
 	background-color: #a4c1c1;
 	font-size: 1.5em;
