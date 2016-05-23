@@ -111,6 +111,14 @@ p{
 	text-decoration: underline;
 }
 
+#title5{
+	color: black;
+	background-color: #a4c1c1;
+	font-size: 1.5em;
+	font-weight: bold;
+	text-decoration: underline;
+}
+
 #content1{
 	color: #6666ff;
 	text-align: left;
@@ -129,6 +137,11 @@ p{
 	font-family: "Lucida Console", Monaco, monospace;
 }
 
+#content5{
+	color: black;
+	text-align: left;
+	font-family: "Lucida Console", Monaco, monospace;
+}
 
 ol{
 	background-color: #a4c1c1;
