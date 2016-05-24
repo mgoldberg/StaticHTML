@@ -43,6 +43,7 @@ a:hover{
 
 #links{
 	background-color: black;
+	border: none;
 }
 
 /*body:nth-child(2){
