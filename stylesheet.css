@@ -265,7 +265,7 @@ p header-mini{
     margin-right: auto;
     position: relative;
     left: -10px;
-    top: -75px;
+    top: -135px;
     animation-name: speeder2;
     animation-duration: 8s;
     animation-iteration-count: infinite;
@@ -336,7 +336,7 @@ p header-mini{
 footer{
 	background-color:black;
 	position: relative;
-	top: -50px;
+	top: -100px;
 	text-align: center;
 	float:none;
 	color: gray;
