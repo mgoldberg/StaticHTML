@@ -67,7 +67,8 @@ img{
 
 div{
 	border-radius: 10px;
-	background-color: #a4c1c1;
+	/*background-color: #a4c1c1;*/
+	background-color: #66A3C2;
 	text-align: center;
 	padding: 10px;
 	margin: 10px;
@@ -75,7 +76,7 @@ div{
 }
 
 p{
-	background-color: #a4c1c1;
+	/*background-color: #a4c1c1;*/
 	text-align: left;
 	color: #cc6600;
 	font-family: "Lucida Console", Monaco, monospace;
@@ -83,7 +84,7 @@ p{
 
 #title1{
 	color: #6666ff;
-	background-color: #a4c1c1;
+	/*background-color: #a4c1c1;*/
 	font-size: 1.5em;
 	font-weight: bold;
 	text-decoration: underline;
@@ -91,7 +92,7 @@ p{
 
 #title2{
 	color: #cc0000;
-	background-color: #a4c1c1;
+	/*background-color: #a4c1c1;*/
 	font-size: 1.5em;
 	font-weight: bold;
 	text-decoration: underline;
@@ -99,7 +100,7 @@ p{
 
 #title3{
 	color: #cc6600;
-	background-color: #a4c1c1;
+	/*background-color: #a4c1c1;*/
 	font-size: 1.5em;
 	font-weight: bold;
 	text-decoration: underline;
@@ -107,7 +108,7 @@ p{
 
 #title4{
 	color: #009900;
-	background-color: #a4c1c1;
+	/*background-color: #a4c1c1;*/
 	font-size: 1.5em;
 	font-weight: bold;
 	text-decoration: underline;
@@ -115,7 +116,7 @@ p{
 
 #title5{
 	color: black;
-	background-color: #a4c1c1;
+	/*background-color: #a4c1c1;*/
 	font-size: 1.5em;
 	font-weight: bold;
 	text-decoration: underline;
@@ -146,12 +147,12 @@ p{
 }
 
 ol{
-	background-color: #a4c1c1;
+	/*background-color: #a4c1c1;*/
 	font-size: 1em;
 }
 
 li{
-	background-color: #a4c1c1;
+	/*background-color: #a4c1c1;*/
 	font-size: 1em;
 }
 
