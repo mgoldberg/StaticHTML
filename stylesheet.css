@@ -253,8 +253,8 @@ p header-mini{
 }
 
 @keyframes speeder1{
-	0% {left: -60%}
-	50%{left: 60%;}
+	0% {left: -47%}
+	50%{left: 47%;}
 	50.000000001%{left: -60%;}
 	100%{left: -60%;}
 }
@@ -275,8 +275,8 @@ p header-mini{
 @keyframes speeder2{
 	0%{left:-60%;}
 	49.999999999999%{left:-60%;}
-	50%{left: 60%}
-	100%{left: -60%;}
+	50%{left: 47%}
+	100%{left: -47%;}
 }
 
 @keyframes redSwinging{
