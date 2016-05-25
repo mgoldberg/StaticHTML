@@ -233,7 +233,8 @@ p header-mini{
 }
 
 
-#speeder{
+#speeder1{
+	animation-timing-function: linear;
 	display: block;
 	margin-left: auto;
     margin-right: auto;
@@ -243,14 +244,36 @@ p header-mini{
     animation-name: speeder1;
     animation-duration: 8s;
     animation-iteration-count: infinite;
+    -moz-transform: scaleX(-1);
+    -o-transform: scaleX(-1);
+    -webkit-transform: scaleX(-1);
+    transform: scaleX(-1);
+    filter: FlipH;
+    -ms-filter: "FlipH";
 }
 
 @keyframes speeder1{
 	0% {left: -60%}
-	0% {transform: rotate(180deg);}
-	49% {transform: rotate(180deg);}
-	50% {transform: rotate(0deg);}
 	50%{left: 60%;}
+	100%{left: 60%;}
+}
+
+#speeder2{
+	animation-timing-function: linear;
+	display: block;
+	margin-left: auto;
+    margin-right: auto;
+    position: relative;
+    left: -10px;
+    top: -75px;
+    animation-name: speeder2;
+    animation-duration: 8s;
+    animation-iteration-count: infinite;
+}
+
+@keyframes speeder2{
+	0% {left: 60%}
+	50%{left: 60%}
 	100%{left: -60%;}
 }
 
