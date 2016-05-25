@@ -245,6 +245,8 @@ p header-mini{
 
 footer{
 	background-color:black;
+	position: relative;
+	top: 25px;
 	text-align: center;
 	float:none;
 	color: gray;
