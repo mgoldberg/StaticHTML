@@ -207,8 +207,25 @@ p header-mini{
 	text-align: center;
 }*/
 
+#redSaber{
+	transform: rotate(270deg);
+	float:none;
+    position: relative;
+    left: -140px;
+    top: 0px;
+    z-index: -1;
+}
+
+#blueSaber{
+	float:none;
+	position: relative;
+	left: 0px;
+    top: 0px;
+}
+
 footer{
 	background-color:black;
 	text-align: center;
+	float:none;
 	color: gray;
 }
