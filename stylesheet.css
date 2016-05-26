@@ -156,57 +156,6 @@ li{
 	font-size: 1em;
 }
 
-/*p2 ol{
-	color: red;
-	background-color: gray;
-}
-
-p2 li{
-	color: red;
-	background-color: gray;
-}*/
-
-/*positive-header{
-	color: blue;
-	background-color: gray;
-	text-align: center;
-	}*/
-
-/*p2{
-	color: red;
-	background-color: gray;
-}*/
-
-/*negative-header{
-	color: red;
-	background-color: gray;
-	text-align: center;
-	font-size: 1.5em;
-}*/
-
-/*body:first-child{
-	color: blue;
-	//background-color: gray;
-}
-
-body:nth-child(2){
-	color: red;
-	//background-color: gray;
-}
-
-
-p header-mini{
-	color: blue;
-	background-color: gray;
-	text-align: center;
-}
-
-p header-mini{
-	color: red;
-	background-color: gray;
-	text-align: center;
-}*/
-
 #blueSaber{
 	display: block;
 	margin-left: auto;
