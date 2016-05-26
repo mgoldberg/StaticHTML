@@ -1,6 +1,6 @@
 
 *{
-	//background-color: black;
+	/*background-color: black;*/
 }
 
 
@@ -10,7 +10,7 @@ header{
 	text-align: center;
 	font-family: Impact, Charcoal, sans-serif;
 	display:inline-block;
-	//background-color: gray;
+	/*background-color: gray;*/
 }
 
 #header2{
@@ -23,22 +23,22 @@ header{
 }
 
 body{
-	//background-color: gray;
+	/*background-color: gray;*/
 }
 
 a:link{
 	color: yellow;
-	//background-color: gray;
+	/*background-color: gray;*/
 }
 
 a:visited{
 	color: yellow;
-	//background-color: gray;
+	/*background-color: gray;*/
 }
 
 a:hover{
 	color: pink;
-	//background-color: gray;
+	/*background-color: gray;*/
 }
 
 #links{
